@@ -32,6 +32,6 @@ I'm Kshethra Hegde, a frontend development enthusiast passionate about building 
 
 # Contact
 Email: hegdekshethra7@gmail.com
-LinkedIn
-GitHub
+[LinkedIn](https://www.linkedin.com/in/kshethra-hegde-3b3811266)  
+[GitHub](https://github.com/kshethra123)
 
