@@ -7,7 +7,7 @@ FocusScape is a simple and responsive productivity timer that helps users stay f
 - Visual alerts and sound notifications
 - Responsive and clean UI
 - Dark mode support
-- 
+
 # Tech Stack
 - HTML  
 - CSS  
@@ -28,7 +28,7 @@ FocusScape/
 3. Launch index.html in your browser.
 
 # About Me
-I'm Kshethra Hegde, a frontend development enthusiast passionate about building user-friendly and responsive web apps. FocusScape is part of my journey to improve productivity tools with simple design and effective functionality.
+I'm Kshethra Chandra Hegde, a frontend development enthusiast passionate about building user-friendly and responsive web apps. FocusScape is part of my journey to improve productivity tools with simple design and effective functionality.
 
 # Contact
 Email: hegdekshethra7@gmail.com
